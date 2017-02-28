@@ -25,6 +25,7 @@
 * [Shared volumes between builds](https://docs.codefresh.io/docs/shared-volumes-between-builds) - If you want to save something data in shared volume you can do it using freestyle step. You will be able to get access to this volume in another build.
 * [Launch Composition](https://docs.codefresh.io/docs/launch-composition-1) - launch environment using launch-composition step.
 * [Clone private repository using freestyle step](https://docs.codefresh.io/docs/git-clone-private-repository-using-freestyle-step) - This project uses Node Js to build an application which will eventually become a distributable Docker image. If you want to extend the step git-clone you can use the freestyle step.
+* [Push Image to an AWS EC2 Container Registry](https://docs.codefresh.io/docs/push-your-image-to-aws-registry)
 
 ## Usefull compositions
 
@@ -32,6 +33,10 @@
 * [Import data to MongoDB](https://docs.codefresh.io/docs/import-data-to-mongodb-in-composition) - If you want to import/restore or to do something else before using mongo db in your application you can look at the this example.
 * [NodeJS + Angular2 + MongoDB](https://docs.codefresh.io/docs/nodejs-angular2-mongodb) - This tutorial will walk you through the process of adding the following: Build client, Build server, Launch composition.
 * [Secure a Docker Container Using HTTP Basic Auth](https://docs.codefresh.io/docs/securing-docker-container-with-http-basic-auth) - Before making a product publicly available, you might want to restrict access to certain users.
+
+## Deployment
+
+* [Amazon ECS](https://docs.codefresh.io/docs/amazon-ecs) - Deploy Codefresh to Amazon ECS Service
 
 ## Codefresh command line
 
