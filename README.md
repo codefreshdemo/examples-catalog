@@ -37,12 +37,12 @@
 
 The Codefresh command line is a Dockerhub image, @codefresh-io/cf-cli, that you can use in your freestyle step. The Codefresh command line allows:
 
-- Trigger a pipeline
-- Launch a composition
-- Terminate/start/pause environment
-- Get list of images
-- Get list of builds
-- Get any other information from your codefresh.yml
+1. Trigger a pipeline
+2. Launch a composition
+3. Terminate/start/pause environment
+4. Get list of images
+5. Get list of builds
+6. Get any other information from your codefresh.yml
 
 * [How to trigger the another pipeline using cf-cli](https://docs.codefresh.io/docs/how-to-trigger-another-pipeline-using-cf-cli) - In this article you will find how to trigger the default/certain pipeline with default/certain branch of repository.
 * [How to run composition using cf-cli](https://docs.codefresh.io/docs/how-to-run-composition-using-cf-cli-1)
