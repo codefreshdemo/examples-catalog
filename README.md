@@ -2,7 +2,7 @@
 
 ## Languages and Frameworks
 
-* [Node.js - Let's Chat](https://github.com/Superfresh/demochat/tree/codefresh) - Use this tutorial to familiarize yourself with codefresh.yml file and codefresh functionality.
+* [Node.js - Let's Chat](https://github.com/codefreshdemo/demochat) - Use this tutorial to familiarize yourself with codefresh.yml file and codefresh functionality.
 * [Golang - Prest](https://github.com/codefreshdemo/cf-example-golang-hello-world) - pREST allows you to serve a RESTful API from any PostgreSQL database.
 * [Node.js - Voting App](https://github.com/containers101/voting-app) - This voting application is a demo with which you can build an advanced composition that uses Python, Redis, Postgres, Node.js, and .Net.
 * [React - React starter kit](https://github.com/containers101/react-starter-kit) - React Starter Kit is an opinionated boilerplate for web development built on top of Node.js, Express, GraphQL and React, containing modern web development tools such as Webpack, Babel and Browsersync.
