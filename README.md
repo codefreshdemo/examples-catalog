@@ -49,5 +49,6 @@ The Codefresh command line is a Dockerhub image, @codefresh-io/cf-cli, that you 
 5. Get list of builds
 6. Get any other information from your codefresh.yml
 
-* [How to trigger the another pipeline using cf-cli](https://docs.codefresh.io/docs/how-to-trigger-another-pipeline-using-cf-cli) - In this article you will find how to trigger the default/certain pipeline with default/certain branch of repository.
-* [How to run composition using cf-cli](https://docs.codefresh.io/docs/how-to-run-composition-using-cf-cli-1)
+* [How to trigger the another pipeline](https://docs.codefresh.io/docs/how-to-trigger-another-pipeline-using-cf-cli) - In this article you will find how to trigger the default/certain pipeline with default/certain branch of repository.
+* [How to run composition](https://docs.codefresh.io/docs/how-to-run-composition-using-cf-cli-1)
+* [How to spin up image](https://docs.codefresh.io/docs/how-to-spin-up-image-using-cf-cli)
