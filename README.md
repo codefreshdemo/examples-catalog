@@ -27,16 +27,19 @@
 * [Clone private repository using freestyle step](https://docs.codefresh.io/docs/git-clone-private-repository-using-freestyle-step) - This project uses Node Js to build an application which will eventually become a distributable Docker image. If you want to extend the step git-clone you can use the freestyle step.
 * [Push Image to an AWS EC2 Container Registry](https://docs.codefresh.io/docs/push-your-image-to-aws-registry)
 
-## Usefull compositions
+## Useful compositions
 
 * [Web terminal](https://docs.codefresh.io/docs/web-terminal) - Provides easy access to Docker container's insides.
 * [Import data to MongoDB](https://docs.codefresh.io/docs/import-data-to-mongodb-in-composition) - If you want to import/restore or to do something else before using mongo db in your application you can look at the this example.
 * [NodeJS + Angular2 + MongoDB](https://docs.codefresh.io/docs/nodejs-angular2-mongodb) - This tutorial will walk you through the process of adding the following: Build client, Build server, Launch composition.
 * [Secure a Docker Container Using HTTP Basic Auth](https://docs.codefresh.io/docs/securing-docker-container-with-http-basic-auth) - Before making a product publicly available, you might want to restrict access to certain users.
+* [List of useful compositions](https://github.com/codefresh-io/composition-examples/tree/master/compositions)
 
 ## Deployment
 
 * [Amazon ECS](https://docs.codefresh.io/docs/amazon-ecs) - Deploy Codefresh to Amazon ECS Service
+* [Docker SWARM](https://docs.codefresh.io/docs/docker-swarm) - Deploy to docker swarm
+* [Elastic Beanstalk](https://docs.codefresh.io/docs/elastic-beanstalk) - Deploy to EB
 
 ## Codefresh command line
 
